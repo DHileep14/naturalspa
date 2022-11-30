@@ -1,10 +1,25 @@
-## Future Ready Talent Projectby DHileep14
+# ✨  Natural SPA ✨
 
-Here I create a Natural Spa Static Web Apps names Good-Health that helps the peoples to find Good Health in High Quality in Low Price and Genuine products.
+This is a web based application developed for health related based website in india
 
-## Website link : https://witty-beach-06079bf00.2.azurestaticapps.net/
+### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github.
 
-## Home Page
+
+**Project Link** -https://witty-beach-06079bf00.2.azurestaticapps.net/index.html
+**project demo video link** - https://youtu.be/fQJA1vXZoEU
+
+## Azure technologies used for this Project
+
+- Static web apps
+- Azure Bot Service
+## Features and Functionalities 
+- Develop more features.
+- Has many graphical and visual innovative effects.
+- Have an aesthetically pleasing visual design and architecture more for us.
+- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc through this Website.
+- User can know about health information through this website.
+- Included the feedback Survey form to increase the scope of improvement for more Exordinary 
+
 
 
 ![2022-11-10 (1)](https://user-images.githubusercontent.com/94083233/201010245-30cb2212-6fe2-45f0-84e8-d242f18c8acc.png)
