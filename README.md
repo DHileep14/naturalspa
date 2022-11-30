@@ -1,8 +1,8 @@
 # ✨  Natural SPA ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for health related based website in india 
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github.
+### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime,Github.
 
 
 **Project Link** -https://witty-beach-06079bf00.2.azurestaticapps.net/index.html
@@ -104,4 +104,10 @@ This is a web based application developed for health related based website in in
 ![2022-11-10 (25)](https://user-images.githubusercontent.com/94083233/201011316-f9c5e997-3e5c-457c-80d5-3651f7792e54.png)
 
 
-### THANK YOU 
+## Technologies
+
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
